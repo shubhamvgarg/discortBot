@@ -1,0 +1,26 @@
+{
+  "name": "discortbot",
+  "version": "1.0.0",
+  "description": "Creating Discort Bot to interact with friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamvgarg/discortBot.git"
+  },
+  "author": "Shubham Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamvgarg/discortBot/issues"
+  },
+  "homepage": "https://github.com/shubhamvgarg/discortBot#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "devDependencies": {
+    "axios": "^1.5.1"
+  }
+}
